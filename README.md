@@ -230,3 +230,4 @@ CORS_ORIGIN=https://tu-frontend.page.app
 | Miguel Mejia | [GitHub](https://github.com/AngelMejiaUAQ) |
 | Omar Martinez | [GitHub](https://github.com/OmarAguilar43) |
 | Mateo Perez | [GitHub](https://github.com/MateoPerez117) |
+| Lizeth Mejia | [GitHub](https://github.com/tanial4) |
